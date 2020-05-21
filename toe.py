@@ -9,6 +9,9 @@
 #check tie
 #flip player
 
+print("Welcome to python tic-tac-toe game!!!")
+
+
 #game board
 board=["-","-","-",
        "-","-","-",
@@ -172,7 +175,7 @@ play_game()
 
 """ Just wrote some comments at the end"""
 
-
+ 
 
 
 
