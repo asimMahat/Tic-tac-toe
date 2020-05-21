@@ -170,6 +170,10 @@ play_game()
 
 
 
+""" Just wrote some comments at the end"""
+
+
+
 
 
 
